@@ -100,15 +100,19 @@ Earn **20 $HCREDIT** for daily check-ins and **3% compounded check-in rewards** 
 ## ''Space Hunters'' in your Telegram name
 **This program is named:** *Name the Fav*, members who add "SpaceHunters," "Space Hunters," "Space Hunter," or "SpaceHunter" to their Telegram name will be rewarded daily, with increasing rewards over a 28-day cycle with a scaling payment from 20 $HCREDIT first day and 260 on the 28th day for a total of 2500 $HCREDITs paid. We plan to add some other features to this program in the future.
 
-## Chat-to-Earn
+![bannerdoble](../../../static/img/chattoearn.jpg)
+## Chat-to-Earn 2.0
 **Farming While Chatting:** This concept evolved into a Chat Hashrate-Powered system which auto assign a power rate to your words determining how powerful they are and pay you based on the combination of the different linked ambassador chats and official groups. In short, earn extra tokens just by chatting. Do not try to defeat the system, it is designed to be fair and detect your exploit attempts, intentional abuse attempts may result you in a **permanent blacklist** for this program.
 
-### Buying $HCREDIT with $HCASH
+![bannerdoble](../../../static/img/alchemybanner.jpg)
+## Chat-to-Earn v2.1
+#### Alchemy Mini-Game
+Combining chat-engaement and HUB App experience we created an immersive, chat-based game where players collect mystical elements, craft powerful runes, and compete with others to rise on the leaderboard. Engage in a world of alchemy, rare treasures, and thrilling discoveries, with opportunities to trade, level up, and earn rewards along the way.
 
-You can purchase $HCREDIT with $HCASH. The exchange rate is subject to **fluctuations** and is only focused on help you to get additional tokens to complete your needed balance for specific activities before the economy get reset.
+[Read more here...](/)
 
 ## Earning $HCASH with my $HCREDIT tokens
-Spend your $HCREDIT tokens playing in Tech: Generators game to earn $HCASH every hour, Read full guide [Generators Guide](/).
+Spend your $HCREDIT tokens playing in Tech: Generators game to earn $HCASH every hour, Read full guide [Generators Guide](/docs/eng/01-user-guides/generatorsenglish.md).
 
 ***
 > This document will get updated while we progress on development, last update October 05/2024
