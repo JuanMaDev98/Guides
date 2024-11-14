@@ -19,7 +19,7 @@
 ### 📃 Whitepapers
 - 📌 [Space Hunters: The Reborn](01-guias-de-usuario/whitepaperesp.md)
 - 📌 [Tech: Generators](01-guias-de-usuario/whitepaper-generadores.md)
-
+- 📌 [Juego de Alquimia](blog/alchemyguide_spanish.md)
 
 
 ****
